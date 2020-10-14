@@ -1,0 +1,26 @@
+{
+  "name": "number-to-semver",
+  "version": "1.0.0",
+  "description": "Convert any integer to a semantic version string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuni0716/number-to-semver.git"
+  },
+  "keywords": [
+    "semver"
+  ],
+  "author": "cuni0716",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuni0716/number-to-semver/issues"
+  },
+  "homepage": "https://github.com/cuni0716/number-to-semver#readme",
+  "devDependencies": {
+    "jest": "^26.5.3"
+  }
+
+}
